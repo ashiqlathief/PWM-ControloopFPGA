@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" font-family="Arial, Helvetica, sans-serif" font-size="14">
+<rect width="760" height="360" fill="#fff"/>
+<text x="380" y="26" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">PWM and dead-band pulses</text>
+<polyline points="120,50 120,330" fill="none" stroke="#222" stroke-width="2"/>
+<text x="60" y="135" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">PWM</text>
+<polyline points="120,170 200,170 200,90 330,90 330,170 480,170 480,90 610,90 610,170 720,170" fill="none" stroke="#1f5fa8" stroke-width="2.5"/>
+<text x="60" y="275" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">Dead band</text>
+<polyline points="120,310 200,310 200,230 240,230 240,310 330,310 330,230 370,230 370,310 480,310 480,230 520,230 520,310 610,310 610,230 650,230 650,310 720,310" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+<line x1="200" y1="80" x2="200" y2="310" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="330" y1="80" x2="330" y2="310" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="480" y1="80" x2="480" y2="310" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="610" y1="80" x2="610" y2="310" stroke="#999" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="220" y="340" text-anchor="start" font-size="12" font-weight="normal" fill="#555">a short pulse follows every PWM edge (rising and falling)</text>
+</svg>

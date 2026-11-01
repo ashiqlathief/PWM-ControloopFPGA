@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" font-family="Arial, Helvetica, sans-serif" font-size="14">
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="380.0" y="26" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">Six-step commutation: Hall signals and phase drive</text>
+<text x="170.0" y="56" text-anchor="middle" fill="#333">Sector 1</text>
+<text x="170.0" y="74" text-anchor="middle" fill="#666" font-size="12">0° to 60°</text>
+<text x="270.0" y="56" text-anchor="middle" fill="#333">Sector 2</text>
+<text x="270.0" y="74" text-anchor="middle" fill="#666" font-size="12">60° to 120°</text>
+<text x="370.0" y="56" text-anchor="middle" fill="#333">Sector 3</text>
+<text x="370.0" y="74" text-anchor="middle" fill="#666" font-size="12">120° to 180°</text>
+<text x="470.0" y="56" text-anchor="middle" fill="#333">Sector 4</text>
+<text x="470.0" y="74" text-anchor="middle" fill="#666" font-size="12">180° to 240°</text>
+<text x="570.0" y="56" text-anchor="middle" fill="#333">Sector 5</text>
+<text x="570.0" y="74" text-anchor="middle" fill="#666" font-size="12">240° to 300°</text>
+<text x="670.0" y="56" text-anchor="middle" fill="#333">Sector 6</text>
+<text x="670.0" y="74" text-anchor="middle" fill="#666" font-size="12">300° to 360°</text>
+<line x1="120" y1="82" x2="120" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="220" y1="82" x2="220" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="320" y1="82" x2="320" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="420" y1="82" x2="420" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="520" y1="82" x2="520" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="620" y1="82" x2="620" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<line x1="720" y1="82" x2="720" y2="575" stroke="#ccc" stroke-dasharray="4 4"/>
+<text x="106" y="114" text-anchor="end" font-weight="bold" fill="#c0392b">Hall A</text>
+<polyline points="120,96 220,96 220,96 320,96 320,96 420,96 420,96 420,120 520,120 520,120 620,120 620,120 720,120" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+<text x="106" y="169" text-anchor="end" font-weight="bold" fill="#1e8449">Hall B</text>
+<polyline points="120,175 220,175 220,175 320,175 320,175 320,151 420,151 420,151 520,151 520,151 620,151 620,151 620,175 720,175" fill="none" stroke="#1e8449" stroke-width="2.5"/>
+<text x="106" y="224" text-anchor="end" font-weight="bold" fill="#1f4e9c">Hall C</text>
+<polyline points="120,206 220,206 220,206 220,230 320,230 320,230 420,230 420,230 520,230 520,230 520,206 620,206 620,206 720,206" fill="none" stroke="#1f4e9c" stroke-width="2.5"/>
+<text x="106" y="334" text-anchor="end" font-weight="bold" fill="#c0392b">Phase A</text>
+<line x1="120" y1="330" x2="720" y2="330" stroke="#bbb"/>
+<polyline points="120,306 220,306 220,306 320,306 320,306 320,330 420,330 420,330 420,354 520,354 520,354 620,354 620,354 620,330 720,330" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+<text x="170.0" y="299" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="270.0" y="299" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="370.0" y="323" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="470.0" y="371" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="570.0" y="371" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="670.0" y="323" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="106" y="434" text-anchor="end" font-weight="bold" fill="#1e8449">Phase B</text>
+<line x1="120" y1="430" x2="720" y2="430" stroke="#bbb"/>
+<polyline points="120,454 220,454 220,454 220,430 320,430 320,430 320,406 420,406 420,406 520,406 520,406 520,430 620,430 620,430 620,454 720,454" fill="none" stroke="#1e8449" stroke-width="2.5"/>
+<text x="170.0" y="471" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="270.0" y="423" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="370.0" y="399" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="470.0" y="399" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="570.0" y="423" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="670.0" y="471" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="106" y="534" text-anchor="end" font-weight="bold" fill="#1f4e9c">Phase C</text>
+<line x1="120" y1="530" x2="720" y2="530" stroke="#bbb"/>
+<polyline points="120,530 220,530 220,530 220,554 320,554 320,554 420,554 420,554 420,530 520,530 520,530 520,506 620,506 620,506 720,506" fill="none" stroke="#1f4e9c" stroke-width="2.5"/>
+<text x="170.0" y="523" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="270.0" y="571" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="370.0" y="571" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">-</text>
+<text x="470.0" y="523" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">Z</text>
+<text x="570.0" y="499" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="670.0" y="499" text-anchor="middle" fill="#333" font-size="14" font-weight="bold">+</text>
+<text x="120" y="606" fill="#444" font-size="13">+ : high-side switch on     - : low-side switch on     Z : phase off (floating)</text>
+<text x="120" y="626" fill="#666" font-size="12">Illustrative sequence. The real order depends on motor wiring and Hall sensor placement.</text>
+</svg>

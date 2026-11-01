@@ -1,0 +1,13 @@
+# Xilinx ISE / ModelSim build output
+*.ngc
+*.ngd
+*.ngr
+*.syr
+*.bld
+*.wdb
+*.wlf
+work/
+transcript
+*.bak
+work-obj*.cf
+*.ghw
